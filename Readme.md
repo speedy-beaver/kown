@@ -33,10 +33,10 @@ All parts have been printed with PETG at 0.25mm layer height.
 ![Attachement Assembly](./pictures/DSC00852.jpeg "Attachement Assembly")
 ![Holder Parts](./pictures/DSC00853.jpeg "Holder Parts")
 ![Holder Assembly](./pictures/DSC00854.jpeg "Holder Assembly") -->
-<img src="./pictures/pictures/DSC00850.jpeg" width="600">
-<img src="./pictures/pictures/DSC00852.jpeg" width="600">
-<img src="./pictures/pictures/DSC00853.jpeg" width="600">
-<img src="./pictures/pictures/DSC00854.jpeg" width="600">
+<img src="./pictures/DSC00850.jpeg" width="600">
+<img src="./pictures/DSC00852.jpeg" width="600">
+<img src="./pictures/DSC00853.jpeg" width="600">
+<img src="./pictures/DSC00854.jpeg" width="600">
 
 ## License 
 All designs are licensed as CC BY-NC-SA
